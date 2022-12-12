@@ -25,8 +25,8 @@ Desenvolvedor Java Jr - Backend
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-## Outras Linguagens Utilizadas
+## Linguagens Mais Utilizadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasbarretob&layout=compact)](https://github.com/josiasbarretob)
