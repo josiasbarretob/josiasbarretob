@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou o Josias Barreto 🧑🏾‍💻
 Desenvolvedor Java Jr - Backend
 
-![Josias - GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasbarretob&show_icons=true&theme=dracula locale=pt-br)
+![Josias - GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasbarretob&show_icons=true&theme=dracula)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiasbarreto/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josiasbarretob)
@@ -11,6 +11,9 @@ Desenvolvedor Java Jr - Backend
 ### Sistema Operacional utilizado no Trabalho
 <div style="display: inline_block"> </br>
   <img align="center" alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 ## Tecnologia utilizada no meu dia a dia
 <div style="display: inline_block"> </br>
