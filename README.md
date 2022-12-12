@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/115179065/207082593-013b556c-0407-408f-be25-50853089c939.png)
-
+## Olá, Mundo! Me chamo Josias Barreto e aqui você encontrar um pouquinho dos meus projetos.
 <p> "Transportai um punhado de terra todos os dias e fareis uma montanha." <br> <strong> Confúcio </strong> </p>
 
 ![Josias - GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasbarretob&show_icons=true&theme=github_dark)
