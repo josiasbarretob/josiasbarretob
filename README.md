@@ -1,5 +1,4 @@
-### Olá, Mundo! Eu sou o Josias Barreto 🧑🏾‍💻
-Desenvolvedor Java Jr - Backend
+![image](https://user-images.githubusercontent.com/115179065/207082593-013b556c-0407-408f-be25-50853089c939.png)
 
 <p> "Transportai um punhado de terra todos os dias e fareis uma montanha." <br> <strong> Confúcio </strong> </p>
 
