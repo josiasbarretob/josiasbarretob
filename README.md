@@ -2,7 +2,6 @@
 <p> "Transportai um punhado de terra todos os dias e fareis uma montanha." <br> <strong> Confúcio </strong> </p>
 
 ![Josias - GitHub stats](https://github-readme-stats.vercel.app/api?username=josiasbarretob&show_icons=true&theme=github_dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasbarretob&layout=compact)](https://github.com/josiasbarretob)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiasbarreto/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josiasbarretob)
